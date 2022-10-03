@@ -1,1 +1,1 @@
-# AppiumSampleProject
+# AppiumJavaProject
